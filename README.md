@@ -21,6 +21,7 @@ To write a Socket program to transfer data between Client and Server.
 ## 💻 PROGRAM
 
 ### 🔸 SERVER
+```
 
 Server Side:
 
@@ -128,6 +129,10 @@ int main() {
     WSACleanup();
     return 0;
 }
-    
+```
+## OUTPUT
+<img width="1920" height="1080" alt="497390441-42012e33-82f0-4210-8658-2c277810b9b2" src="https://github.com/user-attachments/assets/5a8013ef-6869-40de-9788-0e601bb2a122" />
+<img width="1920" height="1080" alt="497390478-9f586eae-2f29-40a0-b72f-1bdcb39d06e8" src="https://github.com/user-attachments/assets/9add38dd-a304-4692-aeea-c8595ce6b438" />
+
 ## 🎯 RESULT
 Thus, a socket program was successfully written to transfer data between client and server, and its performance was studied.
